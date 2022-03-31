@@ -1,0 +1,26 @@
+First Day at Newton School
+Time Limit: 1 sec
+Memory Limit: 128000 kB
+Problem Statement
+Today is Newton School's first class of this year. Nutan, a student at Newton School, has received his first assignment. He will be given a string as input. His task is to print "Gravity'' if the input is "Apple''; otherwise, he will have to print "Space''.
+
+Can you help Nutan in solving his first assignment? Note that the quotation marks are just for clarity. They are not part of the input string, and should not be a part of your output string.
+Input
+The input consists of a single line that contains a string S (1 ≤ length of S ≤ 10). The string only consists of lowercase and uppercase letters.
+Output
+Print "Gravity'' or "Space'' according to the input.
+Example
+Sample Input 1:
+Apple
+Sample Output 1:
+Gravity
+
+Sample Input 2:
+Mango
+Sample Output 2:
+Space
+
+Sample Input 3:
+AppLE
+Sample Output 3:
+Space
